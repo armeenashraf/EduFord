@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "./assets/hat.png";
-import dcu from "./assets/DCuU.png";
+import dcu from "./assets/DCU.png";
 import build1 from "./assets/build1.png";
 import build2 from "./assets/build2.jpg";
 import build3 from "./assets/build3.jpg";
